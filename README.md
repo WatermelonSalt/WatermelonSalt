@@ -61,7 +61,7 @@ class World:
         PERSONALITY = ["FUN", "COOL"]
 ```
 
-The class basically represents the world and the function definition represents me in the world and the variable tell stuff about me
+The class basically represents the world and the function definition represents me in the world and the variables tell stuff about me
 
 ## Stats
 
