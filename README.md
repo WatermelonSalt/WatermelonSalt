@@ -10,7 +10,7 @@
 
 ## Good Repos
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=Splendid-Discord_Bot&theme=dark)(https://github.com/WatermelonSalt/Splendid-Discord_Bot)
+![[Bot-Repo](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=Splendid-Discord_Bot&theme=dark)](https://github.com/WatermelonSalt/Splendid-Discord_Bot)
 
 ## Silly Me <img align="top" src="./Profile Assets/ridiculous.gif" height="75">
 
