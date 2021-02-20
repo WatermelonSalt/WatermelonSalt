@@ -8,6 +8,10 @@
 
 [![Gists Badge](https://badges.pufler.dev/gists/WatermelonSalt)](https://badges.pufler.dev)
 
+## Good Repos
+
+![](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=Splendid-Discord_Bot&theme=dark)
+
 ## Silly Me <img align="top" src="./Profile Assets/ridiculous.gif" height="75">
 
 Well, the banner(I'm the one who designed it) above says that I'm **WatermelonSalt682** but the profile says that I'm **WatermelonSalt** and both of them are correct but I go by **WatermelonSalt** on most websites but whatevs <img align="top" src="./Profile Assets/shrug omnom.gif" width="50">
@@ -65,9 +69,9 @@ The class basically represents the world and the function definition represents 
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=WatermelonSalt&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=WatermelonSalt&show_icons=true&count_private=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WatermelonSalt)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WatermelonSalt&theme=dark)
 
 ## Socials
 
