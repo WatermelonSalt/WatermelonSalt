@@ -14,6 +14,8 @@
 
 [![IcoSet-Repo](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=IcoSet&theme=dark)](https://github.com/WatermelonSalt/IcoSet)
 
+[![MailSend-Repo](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=MailSend&theme=dark)](https://github.com/WatermelonSalt/MailSend)
+
 ## Silly Me <img align="top" src="./Profile Assets/ridiculous.gif" height="75">
 
 Well, the banner(I'm the one who designed it) above says that I'm **WatermelonSalt682** but the profile says that I'm **WatermelonSalt** and both of them are correct but I go by **WatermelonSalt** on most websites but whatevs <img align="top" src="./Profile Assets/shrug omnom.gif" width="50">
