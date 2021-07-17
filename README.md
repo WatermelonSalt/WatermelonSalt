@@ -60,11 +60,11 @@ class World:
 
     def WatermelonSalt:
 
-        OS = ["Windows"]
+        OS = ["Windows", "Arch/Manjaro"]
         LANGUAGES = ["Python"]
-        GOING_TO_LEARN = ["JAVASCRIPT", "C#"]
+        GOING_TO_LEARN = ["HTML", "CSS", "JavaScript", "C++", "C#"]
         TOOLS = ["GIT", "PWSH", "BASH"]
-        QUOTE = "Everyday, you learn something new"
+        QUOTE = "Everyday, learn something new"
         INTERESTS = ["SPACE", "TECH", "PROGRAMMING", "GAMES"]
         PERSONALITY = ["FUN", "COOL"]
 ```
