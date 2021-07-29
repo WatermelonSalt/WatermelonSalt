@@ -14,7 +14,7 @@
 
 [![IcoSet-Repo](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=IcoSet&theme=dark)](https://github.com/WatermelonSalt/IcoSet)
 
-[![MailSend-Repo](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=MailSend&theme=dark)](https://github.com/WatermelonSalt/MailSend)
+[![Zdl-Repo](https://github-readme-stats.vercel.app/api/pin/?username=WatermelonSalt&repo=Zdl&theme=dark)](https://github.com/WatermelonSalt/Zdl)
 
 ## Silly Me <img align="top" src="./Profile Assets/ridiculous.gif" height="75">
 
