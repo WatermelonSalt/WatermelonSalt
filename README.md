@@ -54,19 +54,19 @@ Here comes an interesting part about me!
 That's all I could think of and I don't even know if they count as "Skills" but there you have it!
 
 ## Know More!
+```py
+class World:
 
-        class World:
+    def WatermelonSalt:
 
-                def WatermelonSalt:
-
-                     OS = ["Windows", "Arch/Manjaro"]
-                     LANGUAGES = ["Python", "Lua"(No Projects attempted yet)]
-                     GOING_TO_LEARN = ["HTML", "CSS", "JavaScript", "C++", "C#"]
-                     TOOLS = ["GIT", "PWSH", "BASH"]
-                     QUOTE = "Everyday, learn something new"
-                     INTERESTS = ["SPACE", "TECH", "PROGRAMMING", "GAMES"]
-                     PERSONALITY = ["FUN", "COOL"]
-                ```
+        OS = ["Windows", "Arch/Manjaro"]
+        LANGUAGES = ["Python", "Lua"(No Projects attempted yet)]
+        GOING_TO_LEARN = ["HTML", "CSS", "JavaScript", "C++", "C#"]
+        TOOLS = ["GIT", "PWSH", "BASH"]
+        QUOTE = "Everyday, learn something new"
+        INTERESTS = ["SPACE", "TECH", "PROGRAMMING", "GAMES"]
+        PERSONALITY = ["FUN", "COOL"]
+```
 
 The class basically represents the world and the function definition represents me in the world and the variables tell stuff about me
 
