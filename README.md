@@ -59,8 +59,8 @@ class World:
 
     def WatermelonSalt:
 
-        OS = ["Windows", "Arch/Manjaro"]
-        LANGUAGES = ["Python", "Lua"(No Projects attempted yet)]
+        OS = ["Windows", "Manjaro", "Arch"]
+        LANGUAGES = ["Python", "C", "Lua"(No Projects attempted yet)]
         GOING_TO_LEARN = ["HTML", "CSS", "JavaScript", "C++", "C#"]
         TOOLS = ["GIT", "PWSH", "BASH"]
         QUOTE = "Everyday, learn something new"
