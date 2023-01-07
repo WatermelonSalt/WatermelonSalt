@@ -40,7 +40,7 @@ I'm a hobbyist developer who likes to take up occasional challenges 🐱‍👤 
 
 <div style="width: 100%; text-align: center;">
     <a href="https://github.com/WatermelonSalt">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WatermelonSalt&show_icons=true&theme=merko"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WatermelonSalt&show_icons=true&theme=merko"/>
     </a>
 </div>
 
